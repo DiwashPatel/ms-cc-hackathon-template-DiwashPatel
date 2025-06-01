@@ -31,7 +31,6 @@ Most carbon calculators ignore your digital life, but **Invisible Carbon** revea
 - 📊 Live, adaptive visualizations (pie charts & global comparisons)
 - 🤖 AI-powered personalized recommendations (using Google Gemini)
 - 🚦 Digital + daily life footprint (the full story)
-- 🛡️ Privacy-first (no data leaves your device unless you use Gemini API)
 
 ---
 
@@ -85,7 +84,7 @@ Most carbon calculators ignore your digital life, but **Invisible Carbon** revea
 - **Categories:** Food, Transport, Household, Digital Life.
 - **Input:** User answers simple questions about their habits.
 - **Calculations:** Annual carbon emissions are computed per category.
-- **Visualization:** Interactive charts display your breakdown and compare to global averages.
+- **Visualization:** Interactive charts display your breakdown and compare to global averages. (coming soon in the web)
 - **AI Recommendations:** (If enabled) Gemini API analyzes your data and gives custom advice.
 
 ---
