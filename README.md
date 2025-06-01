@@ -1,4 +1,4 @@
-# 🌱🌱🌱 The Invisible Carbon Calculator 🌱🌱🌱
+# 🌱🌱🌱 [The Invisible Carbon Calculator](https://diwashpatel.github.io/ms-cc-hackathon-template-DiwashPatel/) 🌱🌱🌱
 
 _Uncover the carbon footprint you can’t see—at home, on the road, and online._
 
@@ -9,6 +9,8 @@ _Uncover the carbon footprint you can’t see—at home, on the road, and online
 Most carbon calculators ignore your digital life, but **Invisible Carbon** reveals the impact of your everyday habits—including food, travel, household, and especially your digital activities (streaming, scrolling, gaming, and more).
 
 ---
+
+visit: https://diwashpatel.github.io/ms-cc-hackathon-template-DiwashPatel/
 
 ## 🚀 **Next-Gen Calculator Covers:**
 - 🍔 **Food:** Track your diet’s carbon impact
